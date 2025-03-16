@@ -261,6 +261,10 @@
       "PackagePath": "staticwebassets\\uploads\\0ecad6b3-51c0-4284-8c73-bd539afbde14_ban4.jpg"
     },
     {
+      "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\0f72bc75-21d3-4ec5-908e-deb210fb0b1b_testi1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0f72bc75-21d3-4ec5-908e-deb210fb0b1b_testi1.jpg"
+    },
+    {
       "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\1ad30fa9-b340-4759-950f-1e688cca7f9e_image3.jpg",
       "PackagePath": "staticwebassets\\uploads\\1ad30fa9-b340-4759-950f-1e688cca7f9e_image3.jpg"
     },
@@ -281,6 +285,10 @@
       "PackagePath": "staticwebassets\\uploads\\3620e7e0-5a8d-4f30-b4d5-29a1c9096f03_team2.jpg"
     },
     {
+      "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\3f5bdeb8-dd77-4614-835b-4c381a20c14a_image1.png",
+      "PackagePath": "staticwebassets\\uploads\\3f5bdeb8-dd77-4614-835b-4c381a20c14a_image1.png"
+    },
+    {
       "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\405b31e2-1dc9-4c4c-886c-7ce101b89e48_team2.jpg",
       "PackagePath": "staticwebassets\\uploads\\405b31e2-1dc9-4c4c-886c-7ce101b89e48_team2.jpg"
     },
@@ -289,8 +297,16 @@
       "PackagePath": "staticwebassets\\uploads\\42b8f066-0a5e-47f3-82d3-6a8f9b4f8f46_inner-banner.jpg"
     },
     {
+      "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\43374b84-a0c5-4177-a7d0-52f57d8985af_team4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\43374b84-a0c5-4177-a7d0-52f57d8985af_team4.jpg"
+    },
+    {
       "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\643605a4-6be6-4634-95b9-0e0e0784fcb0_ban4.jpg",
       "PackagePath": "staticwebassets\\uploads\\643605a4-6be6-4634-95b9-0e0e0784fcb0_ban4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\76286056-ac48-4483-bb65-cb05166ebb09_image1.png",
+      "PackagePath": "staticwebassets\\uploads\\76286056-ac48-4483-bb65-cb05166ebb09_image1.png"
     },
     {
       "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\78d93e83-c2b1-43cc-93fb-f63bb97f8212_team2.jpg",
@@ -363,6 +379,10 @@
     {
       "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\e994fc85-9924-4f5f-9368-3ea53c7aa3bc_team2.jpg",
       "PackagePath": "staticwebassets\\uploads\\e994fc85-9924-4f5f-9368-3ea53c7aa3bc_team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CROWN\\Documents\\Resto App\\Back-end\\ExamenImp\\Examen.WEB\\wwwroot\\uploads\\f35a31d5-b75b-41d7-9fd6-3ede0568a2ee_team1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f35a31d5-b75b-41d7-9fd6-3ede0568a2ee_team1.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Examen.WEB.Microsoft.AspNetCore.StaticWebAssets.props",
